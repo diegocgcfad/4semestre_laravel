@@ -53,4 +53,4 @@
         <a target="_blank" href="<?= $link4[0] ?>"> <?= $link4[1] ?> </a>
     </div>
 </body>
-</html>
+</html><?php /**PATH C:\Users\Diego\Desktop\Back-End\Teste PHP\links\resources\views/hyperlinks.blade.php ENDPATH**/ ?>
